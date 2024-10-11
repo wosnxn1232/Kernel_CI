@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "kernel",
-      "repo": "https://github.com/Redmi-S2-Y2-Resources/kernel_xiaomi_ysl",
-      "branch": "main",
-      "device": "ysl",
-      "defconfig": "ysl_defconfig"
+      "repo": "https://github.com/wosnxn1232/android_kernel_xiaomi_cannon",
+      "branch": "lineage-20",
+      "device": "cannon",
+      "defconfig": "cannon_defconfig"
   },
     "toolchains": [
       {
