@@ -5,7 +5,7 @@
       "repo": "https://github.com/wosnxn1232/kernel_xiaomi_cannon",
       "branch": "12",
       "device": "cannon",
-      "defconfig": "cannon_defconfig"
+      "defconfig": "cannon_user_defconfig"
   },
     "toolchains": [
       {
