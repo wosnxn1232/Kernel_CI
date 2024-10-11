@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "kernel",
-      "repo": "https://github.com/wosnxn1232/android_kernel_xiaomi_cannon",
-      "branch": "lineage-20",
+      "repo": "https://github.com/wosnxn1232/kernel_xiaomi_cannon",
+      "branch": "12",
       "device": "cannon",
       "defconfig": "cannon_defconfig"
   },
